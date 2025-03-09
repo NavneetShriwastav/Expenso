@@ -30,7 +30,6 @@ Click the image above to watch the Expenso demo video.
 - **Language:** Java  
 - **Database:** SQLite  
 - **Architecture:** MVVM  
-- **Real-Time Data:** Integrated with a real-time database solution
 
 ---
 
